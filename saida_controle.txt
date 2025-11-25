@@ -1,0 +1,80 @@
+
+=== CONTROLE DE ESTOQUE ===
+1 - Cadastrar produto
+2 - Listar
+3 - Filtrar p/ categoria
+4 - Ordenar (por nome)
+5 - Remover elemento
+6 - Atualizar preço
+7 - Relatório por Categoria (Subtotais)
+0 - Sair
+Escolha uma opção: Nome/Descrição: Qtd em Estoque: Preço Unitário: Categoria: Qtd Mínima: Produto cadastrado com sucesso!
+
+=== CONTROLE DE ESTOQUE ===
+1 - Cadastrar produto
+2 - Listar
+3 - Filtrar p/ categoria
+4 - Ordenar (por nome)
+5 - Remover elemento
+6 - Atualizar preço
+7 - Relatório por Categoria (Subtotais)
+0 - Sair
+Escolha uma opção: Nome/Descrição: Qtd em Estoque: Preço Unitário: Categoria: Qtd Mínima: Produto cadastrado com sucesso!
+
+=== CONTROLE DE ESTOQUE ===
+1 - Cadastrar produto
+2 - Listar
+3 - Filtrar p/ categoria
+4 - Ordenar (por nome)
+5 - Remover elemento
+6 - Atualizar preço
+7 - Relatório por Categoria (Subtotais)
+0 - Sair
+Escolha uma opção: Nome/Descrição: Qtd em Estoque: Preço Unitário: Categoria: Qtd Mínima: Produto cadastrado com sucesso!
+
+=== CONTROLE DE ESTOQUE ===
+1 - Cadastrar produto
+2 - Listar
+3 - Filtrar p/ categoria
+4 - Ordenar (por nome)
+5 - Remover elemento
+6 - Atualizar preço
+7 - Relatório por Categoria (Subtotais)
+0 - Sair
+Escolha uma opção: --- Lista Geral ---
+Smartphone XYZ 128GB | Qtd: 15    | $ Unit: 1200.50  | Cat: Eletrônicos
+Mouse óptico USB     | Qtd: 50    | $ Unit: 25.00    | Cat: Periféricos
+Teclado mecânico     | Qtd: 20    | $ Unit: 150.00   | Cat: Periféricos
+
+=== CONTROLE DE ESTOQUE ===
+1 - Cadastrar produto
+2 - Listar
+3 - Filtrar p/ categoria
+4 - Ordenar (por nome)
+5 - Remover elemento
+6 - Atualizar preço
+7 - Relatório por Categoria (Subtotais)
+0 - Sair
+Escolha uma opção: 
+=== RELATÓRIO DE VALORES POR CATEGORIA ===
+Categoria: Eletrônicos
+ - Smartphone XYZ 128GB (Qtd: 15) = R$ 18007.50
+   >> Subtotal Eletrônicos: R$ 18007.50
+
+Categoria: Periféricos
+ - Mouse óptico USB (Qtd: 50) = R$ 1250.00
+ - Teclado mecânico (Qtd: 20) = R$ 3000.00
+   >> Subtotal Periféricos: R$ 4250.00
+------------------------------------------
+TOTAL GERAL DO ESTOQUE: R$ 22257.50
+
+=== CONTROLE DE ESTOQUE ===
+1 - Cadastrar produto
+2 - Listar
+3 - Filtrar p/ categoria
+4 - Ordenar (por nome)
+5 - Remover elemento
+6 - Atualizar preço
+7 - Relatório por Categoria (Subtotais)
+0 - Sair
+Escolha uma opção: Saindo...

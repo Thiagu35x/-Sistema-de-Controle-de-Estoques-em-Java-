@@ -1,0 +1,21 @@
+1
+Smartphone XYZ 128GB
+15
+1200.50
+Eletrônicos
+2
+1
+Mouse óptico USB
+50
+25.00
+Periféricos
+5
+1
+Teclado mecânico
+20
+150.00
+Periféricos
+3
+2
+7
+0

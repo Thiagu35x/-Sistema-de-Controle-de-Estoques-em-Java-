@@ -1,0 +1,21 @@
+1
+Mouse Gamer
+10
+150.00
+Eletronicos
+5
+1
+Teclado Mecanico
+5
+300.00
+Eletronicos
+2
+1
+Cadeira Office
+2
+800.00
+Escritorio
+1
+2
+7
+0

@@ -1,0 +1,130 @@
+--- Sistema de Controle de Estoque ---
+1 - Cadastrar produto
+2 - Listar produtos
+3 - Filtrar por categoria
+4 - Ordenar por nome
+5 - Remover produto por índice
+6 - Subtotal por categoria
+7 - Listar com subtotal por categoria
+8 - Total geral do estoque
+0 - Sair
+Escolha uma opção: Nome: Descrição: Quantidade: Preço unitário (use ponto ou vírgula): Categoria: Quantidade mínima: Produto cadastrado com sucesso!
+
+--- Sistema de Controle de Estoque ---
+1 - Cadastrar produto
+2 - Listar produtos
+3 - Filtrar por categoria
+4 - Ordenar por nome
+5 - Remover produto por índice
+6 - Subtotal por categoria
+7 - Listar com subtotal por categoria
+8 - Total geral do estoque
+0 - Sair
+Escolha uma opção: Nome: Descrição: Quantidade: Preço unitário (use ponto ou vírgula): Categoria: Quantidade mínima: Produto cadastrado com sucesso!
+
+--- Sistema de Controle de Estoque ---
+1 - Cadastrar produto
+2 - Listar produtos
+3 - Filtrar por categoria
+4 - Ordenar por nome
+5 - Remover produto por índice
+6 - Subtotal por categoria
+7 - Listar com subtotal por categoria
+8 - Total geral do estoque
+0 - Sair
+Escolha uma opção: Nome: Descrição: Quantidade: Preço unitário (use ponto ou vírgula): Categoria: Quantidade mínima: Produto cadastrado com sucesso!
+
+--- Sistema de Controle de Estoque ---
+1 - Cadastrar produto
+2 - Listar produtos
+3 - Filtrar por categoria
+4 - Ordenar por nome
+5 - Remover produto por índice
+6 - Subtotal por categoria
+7 - Listar com subtotal por categoria
+8 - Total geral do estoque
+0 - Sair
+Escolha uma opção: --- Lista de Produtos ---
+0: Smartphone - Smartphone XYZ 128GB | Qtde: 15 | Preço: R$ 1.200,50 | Cat: Eletrônicos | QtdeMín: 2 | Subtotal: R$ 18.007,50
+1: Mouse - Mouse óptico USB | Qtde: 50 | Preço: R$ 25,00 | Cat: Periféricos | QtdeMín: 5 | Subtotal: R$ 1.250,00
+2: Teclado - Teclado mecânico | Qtde: 20 | Preço: R$ 150,00 | Cat: Periféricos | QtdeMín: 3 | Subtotal: R$ 3.000,00
+
+--- Sistema de Controle de Estoque ---
+1 - Cadastrar produto
+2 - Listar produtos
+3 - Filtrar por categoria
+4 - Ordenar por nome
+5 - Remover produto por índice
+6 - Subtotal por categoria
+7 - Listar com subtotal por categoria
+8 - Total geral do estoque
+0 - Sair
+Escolha uma opção: Opção inválida. Digite um número.
+--- Sistema de Controle de Estoque ---
+1 - Cadastrar produto
+2 - Listar produtos
+3 - Filtrar por categoria
+4 - Ordenar por nome
+5 - Remover produto por índice
+6 - Subtotal por categoria
+7 - Listar com subtotal por categoria
+8 - Total geral do estoque
+0 - Sair
+Escolha uma opção: Produtos ordenados por nome.
+
+--- Sistema de Controle de Estoque ---
+1 - Cadastrar produto
+2 - Listar produtos
+3 - Filtrar por categoria
+4 - Ordenar por nome
+5 - Remover produto por índice
+6 - Subtotal por categoria
+7 - Listar com subtotal por categoria
+8 - Total geral do estoque
+0 - Sair
+Escolha uma opção: --- Subtotal por Categoria ---
+Periféricos: R$ 4.250,00
+Eletrônicos: R$ 18.007,50
+
+--- Sistema de Controle de Estoque ---
+1 - Cadastrar produto
+2 - Listar produtos
+3 - Filtrar por categoria
+4 - Ordenar por nome
+5 - Remover produto por índice
+6 - Subtotal por categoria
+7 - Listar com subtotal por categoria
+8 - Total geral do estoque
+0 - Sair
+Escolha uma opção: Categoria: Periféricos
+  Mouse - Mouse óptico USB | Qtde: 50 | Preço: R$ 25,00 | Cat: Periféricos | QtdeMín: 5 | Subtotal: R$ 1.250,00
+  Teclado - Teclado mecânico | Qtde: 20 | Preço: R$ 150,00 | Cat: Periféricos | QtdeMín: 3 | Subtotal: R$ 3.000,00
+  Subtotal da categoria Periféricos: R$ 4.250,00
+
+Categoria: Eletrônicos
+  Smartphone - Smartphone XYZ 128GB | Qtde: 15 | Preço: R$ 1.200,50 | Cat: Eletrônicos | QtdeMín: 2 | Subtotal: R$ 18.007,50
+  Subtotal da categoria Eletrônicos: R$ 18.007,50
+
+--- Sistema de Controle de Estoque ---
+1 - Cadastrar produto
+2 - Listar produtos
+3 - Filtrar por categoria
+4 - Ordenar por nome
+5 - Remover produto por índice
+6 - Subtotal por categoria
+7 - Listar com subtotal por categoria
+8 - Total geral do estoque
+0 - Sair
+Escolha uma opção: Total geral do estoque: R$ 22.257,50
+
+--- Sistema de Controle de Estoque ---
+1 - Cadastrar produto
+2 - Listar produtos
+3 - Filtrar por categoria
+4 - Ordenar por nome
+5 - Remover produto por índice
+6 - Subtotal por categoria
+7 - Listar com subtotal por categoria
+8 - Total geral do estoque
+0 - Sair
+Escolha uma opção: Saindo...
